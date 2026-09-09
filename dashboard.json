@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "icon": "📁",
+      "name": "Documents",
+      "path": "Documents",
+      "description": "PDF, DOCX, TXT, MD and office files"
+    },
+    {
+      "icon": "🛠",
+      "name": "Applications",
+      "path": "Applications",
+      "description": "Portable applications and launchable programs"
+    },
+    {
+      "icon": "🧠",
+      "name": "AI & Projects",
+      "path": "AI",
+      "description": "AI workspaces, source repositories and projects"
+    },
+    {
+      "icon": "📚",
+      "name": "Books",
+      "path": "Books",
+      "description": "PDF and EPUB reading material"
+    },
+    {
+      "icon": "🐍",
+      "name": "Python",
+      "path": "Python",
+      "description": "Python scripts and Jupyter notebooks"
+    },
+    {
+      "icon": "💻",
+      "name": "Linux",
+      "path": "Linux",
+      "description": "ISO images, AppImages and Linux resources"
+    },
+    {
+      "icon": "📊",
+      "name": "Data",
+      "path": "Data",
+      "description": "CSV, Excel, JSON and database files"
+    },
+    {
+      "icon": "📦",
+      "name": "Archives",
+      "path": "Archives",
+      "description": "ZIP, TAR, GZ and other archives"
+    }
+  ]
+}
